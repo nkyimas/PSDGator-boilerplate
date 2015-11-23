@@ -34,6 +34,7 @@ p { margin: 0; padding: 0; }
 h1,h2,h3,h4,h5,h6 { font-weight: normal; margin: 0; line-height: 1em; padding: 0; }
 p { color: #382F2D; font-size: 18px; line-height: 1.18em; }
 a { text-decoration: none; color: #DC1928; }
+input[type="text"], input[type="email"] { -webkit-appearance:none; -webkit-border-radius:0; }
 
 /* ==========================================================================
    Responsive helpers
