@@ -1,5 +1,5 @@
 /* ==========================================================================
-   A basic old scholl grid
+   A basic old school grid
    ========================================================================== */
 .row { margin: 0 -20px; }
 .row:before, .row:after { content: " "; display: table; }
